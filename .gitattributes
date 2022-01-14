@@ -1,1 +1,1 @@
-.makefile linguist-language=cplusplus
+.makefile linguist-language=false
