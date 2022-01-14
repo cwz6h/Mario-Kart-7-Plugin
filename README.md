@@ -1,7 +1,7 @@
 # Mario Kart 7 Plugin
 
 ## A MK7 Plugin
-A MK7 Plugin In a .3gx Format To Be Loaded With Luma3DS. Written In C++ Using CTRPF As A C++ Library And 3gxtool.exe (3gxtool.exe IS NOT a C++ Libray, It is a file.), And Visual Studio Code As A Source-Code Editor.
+A MK7 Plugin In a .3gx Format To Be Loaded With Luma3DS. Written In C++ Using CTRPF As A C++ Library And 3gxtool.exe (3gxtool.exe IS NOT a C++ Library, It is a file.), And Visual Studio Code As A Source-Code Editor.
 
 ## Compiling
 **NOTE: If You Are Going To Follow This Section. Make Sure To At Least Have CTRPF and 3gxtool.exe**
