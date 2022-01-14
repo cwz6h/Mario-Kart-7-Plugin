@@ -5,7 +5,7 @@ A MK7 Plugin In a .3gx Format To Be Loaded With Luma3DS. Written In C++ Using CT
 
 ## Compiling
 **NOTE: If You Are Going To Follow This Section. Make Sure To At Least Have CTRPF and 3gxtool.exe**
-> **Run "make",** Note: If You Have An Existing First Enter "make clean". If Your Using Batch Put Pause At The End.
+> **Run "make",** Note: If You Have An Existing 3gx file First Enter "make clean". If Your Using Batch Put Pause At The End.
 
 ## Installing
 1. Go To The luma Folder On Your SD Card And Create A New One Called "plugins", Then Go Inside The Folder And Create Another Called "0004000000030800"
