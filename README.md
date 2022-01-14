@@ -13,5 +13,9 @@ A MK7 Plugin In a .3gx Format To Be Loaded With Luma3DS. Written In C++ Using CT
 
 NOTE: **This Has To Be All Done On Your PC** After Powering Off Your 3DS And Taking Out The SD Card.
 
+## Notes
+
+**You Need This Luma3DS: https://github.com/Nanquitas/Luma3DS**
+
 ## Shout Out
 **Thank You All For Visiting My Repositories!**
